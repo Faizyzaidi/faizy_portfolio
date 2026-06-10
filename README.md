@@ -26,7 +26,7 @@ M.Sc. AI & ML student at Jamia Millia Islamia, New Delhi. Passionate about Data 
 - **E-Commerce Dashboard** — Power BI analytics dashboard with DAX & EDA
 
 ## 📬 Contact
-- LinkedIn: [linkedin.com/in/mohdfaizy](https://linkedin.com/in/mohdfaizy)
+- LinkedIn: [www.linkedin.com/in/mohd-faizy-59047b255)
 - GitHub: [github.com/mohdfaizy](https://github.com/mohdfaizy)
 
 ---
