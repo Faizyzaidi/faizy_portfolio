@@ -27,7 +27,7 @@ M.Sc. AI & ML student at Jamia Millia Islamia, New Delhi. Passionate about Data 
 
 ## 📬 Contact
 - LinkedIn: [www.linkedin.com/in/mohd-faizy-59047b255)
-- GitHub: [github.com/mohdfaizy](https://github.com/mohdfaizy)
+- GitHub: [github.com/mohdfaizy](https://github.com/Faizyzaidi)
 
 ---
 © 2025 Mohd Faizy · New Delhi, India
